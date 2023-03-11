@@ -17,5 +17,6 @@ namespace WindowsFormsApp1
             InitializeComponent();
             //Deneme Projesidir.
         }
+     
     }
 }

@@ -46,7 +46,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+
+=======
     <Compile Include="DERELİSTYLE.cs" />
+>>>>>>> main
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
